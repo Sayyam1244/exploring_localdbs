@@ -1,5 +1,5 @@
 import 'package:exploring_localdbs/Src/Data/DataSource/Resources/dummy_data.dart';
-import 'package:exploring_localdbs/Src/Domain/HiveModels/photos_hive_model.dart';
+import 'package:exploring_localdbs/Src/Domain/Models/photos_hive_model.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
 class HiveServices {
